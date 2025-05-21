@@ -1,0 +1,15 @@
+CodeNova - "Ignite Innovation with Every Line of Code"
+
+Services Offered by CodeNova:
+
+1. Custom Software Development:
+   We build powerful, scalable, and secure custom software solutions tailored to your unique business needs using modern technologies and agile practices.
+
+2. Mobile App Development:
+   Our team crafts seamless and high-performing mobile apps for Android and iOS platforms to deliver superior user experiences and meet market demands.
+
+3. Cloud Integration & Services:
+   CodeNova offers cloud consulting, migration, and deployment services to help businesses leverage the full potential of cloud technologies.
+
+4. UI/UX Design:
+   We design intuitive, user-centric interfaces that enhance engagement and ensure your product is both beautiful and easy to use.
