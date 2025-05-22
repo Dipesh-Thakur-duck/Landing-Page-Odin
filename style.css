@@ -1,7 +1,12 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(./resources/Roboto-VariableFont_wdth\,wght.ttf);
+}
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
+    font-family:Roboto;
 }
 .header{
     background-color:#1f2937;
@@ -54,4 +59,69 @@ img{
     padding:10px 20px;
     border:none;
     border-radius:5px;
+}
+.services{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:20px;
+    padding:30px;
+}
+#services-title{
+    font-size:36px;
+    font-weight:900;
+    color:#1f2937;
+}
+.service-list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
+.service-item{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    width:280px;
+}
+.inspiring-quote{
+    background-color:#e5e7eb;
+    padding:40px;
+
+}
+#quotation{
+    font-size:36px;
+    font-style:italic;
+    color:#1f2937;
+    margin-bottom:10px;
+}
+#nikita-saying{
+    text-align:right;
+}
+.footer-push{
+    display:flex;
+    flex-direction:column;
+    align-items:space-between;
+}
+.call-to-action{
+    margin:40px;
+    background-color:#3882f6;
+    color:white;
+    padding:40px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+.contact-button{
+    background-color:#3882f6;
+    color:white;
+    border:2px solid white;
+    padding:5px 15px;
+    border-radius:5px;
+    flex-shrink:0;
+}
+.footer{
+    padding:20px;
+    background-color:#1f2937;
+    color:white;
+    text-align:center;
 }
